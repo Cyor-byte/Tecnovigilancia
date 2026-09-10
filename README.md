@@ -1,6 +1,6 @@
-# Project_SoftwareEngineering_Tecnovigilancia -
+# Tecnovigilancia -
 
-Proyecto hecho por la consultora S.A.G.A para la materia Ingenieria de software I de la Universidad Fasta
+Proyecto hecho por la consultora S.A.G.A para la materia Ingenieria de Software I de la Universidad FASTA
 
 
 **Contenido del proyecto**
@@ -20,7 +20,6 @@ Proyecto hecho por la consultora S.A.G.A para la materia Ingenieria de software 
 - Plan de Implementación del Proyecto de Tecnovigilancia: Descripción del proceso sugerido para la introducción del sistema en la organización, abarcando fases de despliegue, capacitación, pruebas piloto y ajustes post-implementación.
 
 - Gestión de Riesgos del Sistema de Tecnovigilancia: Identificación, evaluación y estrategias de mitigación para los riesgos más críticos que podrían afectar el éxito del sistema, tales como riesgos técnicos, operacionales y organizacionales.
-
 
 
 **Descripcion del sistema**
