@@ -1,4 +1,4 @@
-# Tecnovigilancia -
+# Tecnovigilancia
 
 Proyecto hecho por la consultora S.A.G.A para la materia Ingenieria de Software I de la Universidad FASTA
 
